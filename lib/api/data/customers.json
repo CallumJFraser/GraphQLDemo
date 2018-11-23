@@ -1,0 +1,22 @@
+{
+    "1": {
+        "id": 1,
+        "name": "Amy",
+        "NINumber": "AB123456C"
+    },
+    "2": {
+        "id": 2,
+        "name": "Ben",
+        "NINumber": "AB654321C"
+    },
+    "3": {
+        "id": 3,
+        "name": "Claire",
+        "NINumber": "DE123456F"
+    },
+    "4": {
+        "id": 3,
+        "name": "Dave",
+        "NINumber": "AB654321C"
+    }
+}

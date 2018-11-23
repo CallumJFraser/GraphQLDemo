@@ -1,0 +1,38 @@
+{
+    "1": [
+        {
+            "id": 1,
+            "type": "general",
+            "balance": 1234.56,
+            "currency": "GBP",
+            "limits": {
+                "overdraft": 1500,
+                "total": 500000,
+                "singleSpend": 5000
+            }
+        }, {
+            "id": 2,
+            "type": "general",
+            "balance": 1234.56,
+            "currency": "GBP",
+            "limits": {
+                "overdraft": 1500,
+                "total": 500000,
+                "singleSpend": 5000
+            }
+        }
+    ],
+    "3": [
+        {
+            "id": 3,
+            "type": "general",
+            "balance": 1234.56,
+            "currency": "GBP",
+            "limits": {
+                "overdraft": 1500,
+                "total": 500000,
+                "singleSpend": 5000
+            }
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "1": [
+        {
+            "id": 1,
+            "type": "general",
+            "balance": 1234.56,
+            "currency": "GBP",
+            "limits": {
+                "authorised": 5000,
+                "singleSpend": 4000
+            }
+        }
+    ],
+    "2": [
+        {
+            "id": 2,
+            "type": "general",
+            "balance": 1234.56,
+            "currency": "GBP",
+            "limits": {
+                "authorised": 5000,
+                "singleSpend": 4000
+            }
+        }
+    ],
+    "3": [
+        {
+            "id": 3,
+            "type": "general",
+            "balance": 1234.56,
+            "currency": "GBP",
+            "limits": {
+                "authorised": 5000,
+                "singleSpend": 4000
+            }
+        }
+    ]
+}
